@@ -1,2 +1,2 @@
-# devlog-flutter-app
-Mobil Programlama dersi kapsamında Flutter ve Dart ile geliştirilmiş dış API entegrasyonlu indie oyun takip uygulaması. 
+# indiedairy-flutter-app
+Mobil Programlama dersi için Flutter/Dart ile geliştirilmiş, RAWG API entegrasyonlu bağımsız oyun (indie) takip, günlük (not) uygulaması. 
